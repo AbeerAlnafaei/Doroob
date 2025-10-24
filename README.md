@@ -10,4 +10,4 @@ Includes randomly generated user IDs along with corresponding ratings (1–5) fo
 
 ---
 
-These datasets support experimentation with recommendation algorithms, user preference modeling, and behavior-based analytics within urban environments.
+These datasets will help you experiment with different recommendation approaches to generate place recommendations within the Riyadh region.
