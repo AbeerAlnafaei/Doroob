@@ -1,8 +1,8 @@
-# Dorob Recommendation System Datasets
+# Doroob Recommendation System Datasets
 
 This repository contains two datasets utilized in a research project focused on developing and evaluating multiple recommendation system models for the city of Riyadh:
 
-## Dorob Places Dataset
+## Doroob Places Dataset
 Provides structured information about various points of interest across Riyadh, categorized into multiple venue types such as restaurants, cafés, malls, and a zoo.
 
 ## Models Ratings Dataset
